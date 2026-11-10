@@ -335,3 +335,4 @@ Copyright (c) 2026 **Emirhan Kar & Furkan Genç & Tevfik Üner**
 <div align="center">
   <sub>MODIF-AI Ekibi tarafından geliştirilmiştir.</sub>
 </div>
+
