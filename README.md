@@ -326,7 +326,7 @@ Tüm endpoint'ler `/docs` adresinde Swagger UI ile interaktif olarak test edileb
 
 ## 📄 Lisans
 
-Bu proje **MIT Lisansı** altında lisanslanmıştır. Detaylar için [LICENSE](file:///d:/MODIFIAI/LICENSE) dosyasına göz atabilirsiniz.
+Bu proje **MIT Lisansı** altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına göz atabilirsiniz.
 
 Copyright (c) 2026 **Emirhan Kar & Furkan Genç & Tevfik Üner**
 
